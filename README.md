@@ -15,3 +15,7 @@ As stated above, the main purpose is to provide simple example for Git traning d
 This is a example web project, deploymet can be on any web server or even loacal file system.
 
 ## How To Contribute
+
+## Copyright
+
+2017 Freecoders.
