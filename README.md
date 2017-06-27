@@ -16,6 +16,7 @@ This is a example web project, deploymet can be on any web server or even loacal
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for review.
 ## Copyright
 
 2017 Freecoders.
