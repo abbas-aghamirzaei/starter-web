@@ -6,8 +6,7 @@
 	Abbas Agharmirzaei
 # THANKS
 
-    <name>
-
+	all my friends.
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
