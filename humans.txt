@@ -7,6 +7,7 @@
 # THANKS
 
 	all my friends.
+	please review.
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
